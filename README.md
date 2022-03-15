@@ -1,4 +1,4 @@
-## This is a regression problem where the we have to preidct the concrete compressive strength
+## This is a regression problem where the we have to preidct the concrete compressive strength using various parameters
 
 
 ## Data set description
